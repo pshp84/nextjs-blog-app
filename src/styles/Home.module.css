@@ -1,0 +1,22 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 6rem;
+  min-height: 100vh;
+  padding-top: 40px;
+}
+
+.heading {
+  margin-bottom: 50px;
+}
+
+.homebutton {
+  text-align: left;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.blogpage {
+  min-height: 70vh;
+}
